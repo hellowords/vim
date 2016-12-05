@@ -4,6 +4,7 @@ source $VIMRUNTIME/mswin.vim
 behave mswin
 set encoding=chinese
 set langmenu=zh_CN.GBK
+set guifont =Courier\ New:h12 "设置字体，大小
 set fileencodings=utf-8,ucs-bom,chinese
 set imcmdline
 set guifont="Serif 14"
